@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./grammer_check/grammer_1/Gramformer/gramformer"
+    ]
+}
