@@ -1,6 +1,5 @@
 # Sign Recognition System 
 
-## Overview
 This repository contains code for a real-time sign language recognition system. The system is designed to take sign language gestures as input and convert them into real sentences and audio files using machine learning algorithms.
 
 ## Getting Started
